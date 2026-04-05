@@ -1,0 +1,6 @@
+Stock Portfolio Report:
+AAPL: 5 shares @ $185.20 = $926.00
+TSLA: 10 shares @ $170.10 = $1701.00
+GOOGL: 44 shares @ $152.50 = $6710.00
+
+Total Portfolio Value: $9337.00
